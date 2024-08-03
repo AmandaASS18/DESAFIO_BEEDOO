@@ -1,6 +1,9 @@
 ## DESAFIO_BEEDOO
 ### Amanda Aparecida Santana dos Santos - https://www.linkedin.com/in/amandasantanas/  
 
+[Casos de Teste](https://docs.google.com/document/d/1_hSN-6fG4ONkWjynif7VXEB24rZ3Jq7ASyOrIKc9HUk/edit?usp=sharing)  
+[Evidências](https://drive.google.com/drive/folders/1zUseBP5PcY1lIR2EmQR5NyYQVj_ZdN-m?usp=drive_link)  
+
 > **User Story** - 001 - Lista de Cursos Cadastrados  
 
 **Eu** como Analista de Qualidade  
