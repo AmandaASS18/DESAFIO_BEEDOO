@@ -6,7 +6,9 @@
 ### Links Úteis  
 - [Casos de Teste](https://docs.google.com/spreadsheets/d/1klsWg6S-fd42b24CKDYvIi3CLsl8tPdH74w5zgHWvBk/edit?usp=sharing)
 - [Bugs](https://docs.google.com/document/d/1_hSN-6fG4ONkWjynif7VXEB24rZ3Jq7ASyOrIKc9HUk/edit?usp=sharing)
-- [Evidências](https://drive.google.com/drive/folders/1zUseBP5PcY1lIR2EmQR5NyYQVj_ZdN-m?usp=sharing)  
+- [Evidências](https://drive.google.com/drive/folders/1zUseBP5PcY1lIR2EmQR5NyYQVj_ZdN-m?usp=sharing)
+
+> As decisões para criar as user stories para a plataforma Beedoo foram baseadas em uma compreensão clara das necessidades dos usuários e dos objetivos do sistema. O foco principal foi garantir que tanto a visualização quanto o cadastro de cursos fossem intuitivos e atendam às expectativas dos usuários. 
 
 ### User Story 001 - Lista de Cursos Cadastrados
 
