@@ -10,7 +10,7 @@
 
 ### User Story 001 - Lista de Cursos Cadastrados
 
-[^1]: **Eu** como Analista de Qualidade  
+**Eu** como Analista de Qualidade  
 **Quero** que seja desenvolvido uma lista de cursos cadastrados na plataforma Beedoo  
 **Para** que o usuário ao acessar a plataforma possa visualizar os cursos disponíveis  
 
