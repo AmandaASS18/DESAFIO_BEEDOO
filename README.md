@@ -1,12 +1,16 @@
 ## DESAFIO_BEEDOO
-### Amanda Aparecida Santana dos Santos - https://www.linkedin.com/in/amandasantanas/  
+### Amanda Aparecida Santana dos Santos 
+- Email: amanda.aass@outlook.com
+- [LinkedIn](https://www.linkedin.com/in/amandasantanas/)  
 
-[Casos de Teste](https://docs.google.com/document/d/1_hSN-6fG4ONkWjynif7VXEB24rZ3Jq7ASyOrIKc9HUk/edit?usp=sharing)  
-[Evidências](https://drive.google.com/drive/folders/1zUseBP5PcY1lIR2EmQR5NyYQVj_ZdN-m?usp=drive_link)  
+### Links Úteis  
+- [Casos de Teste](https://docs.google.com/document/d/1_hSN-6fG4ONkWjynif7VXEB24rZ3Jq7ASyOrIKc9HUk/edit?usp=sharing)  
+- [Evidências](https://drive.google.com/drive/folders/1zUseBP5PcY1lIR2EmQR5NyYQVj_ZdN-m?usp=drive_link)  
+- [Decisões tomadas]()  
 
-> **User Story** - 001 - Lista de Cursos Cadastrados  
+### User Story 001 - Lista de Cursos Cadastrados
 
-**Eu** como Analista de Qualidade  
+[^1]: **Eu** como Analista de Qualidade  
 **Quero** que seja desenvolvido uma lista de cursos cadastrados na plataforma Beedoo  
 **Para** que o usuário ao acessar a plataforma possa visualizar os cursos disponíveis  
 
@@ -27,7 +31,7 @@
 - Ao clicar em **Inscreva-se**, deverá direcionar o usuário para a ficha de dados do aluno;  
 
 
-> **User Story** - 002 - Cadastrar Curso
+### User Story 002 - Cadastrar Curso
 
 **Eu** como Analista de Qualidade    
 **Quero** que seja desenvolvido uma funcionalidade de Cadastrar Cursos na plataforma Beedoo    
@@ -52,4 +56,6 @@
 - O campo **Descrição** poderá ser preenchido com letras, números e caracteres especiais;
 - O campo **Instrutor** poderá ser preenchido apenas com Letras;  
 - O campo **URL da Imagem de Capa** deverá ser preenchido com um link válido, **type="url"**;  
-- Ao clicar em **Cadastrar Curso** após preencher todos os campos com dados válidos, deverá cadastrar o curso e apresentar mensagem de **"Cadastro realizado com sucesso"**;  
+- Ao clicar em **Cadastrar Curso** após preencher todos os campos com dados válidos, deverá cadastrar o curso e apresentar mensagem de **"Cadastro realizado com sucesso"**;
+
+
