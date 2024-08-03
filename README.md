@@ -1,6 +1,6 @@
 ## DESAFIO_BEEDOO
 ### Amanda Aparecida Santana dos Santos 
-- Email: amanda.aass@outlook.com
+- [Email](amanda.aass@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/amandasantanas/)  
 
 ### Links Úteis  
